@@ -35,11 +35,11 @@ If the game does not run correctly, check that Python is properly installed and 
 Screenshots
 # Screenshot 1: Starting the Game
 
-<img width="364" alt="image" src="https://github.com/user-attachments/assets/27b6f9d3-bca4-421e-8a0b-cf9a45aacf7b" />
+<img width="431" alt="image" src="https://github.com/user-attachments/assets/23ff34d9-ae4c-48e4-8dac-713a700129bc" />
 
 # Screenshot 2: Victory Ending
 
-<img width="272" alt="image" src="https://github.com/user-attachments/assets/1241b67b-b549-4a8b-8f96-81b7bc09ea95" />
+<img width="305" alt="image" src="https://github.com/user-attachments/assets/a2b4c6e3-525a-4d1c-ad7c-d023ee928e11" />
 
 # Screenshot 3: Game Over Ending
-<img width="95" alt="image" src="https://github.com/user-attachments/assets/4306c40f-9264-464b-9578-59849e970502" />
+<img width="295" alt="image" src="https://github.com/user-attachments/assets/7d7022e9-5ea8-475b-862b-7d6bcd303beb" />
